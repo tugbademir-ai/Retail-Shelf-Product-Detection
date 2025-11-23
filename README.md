@@ -3,7 +3,7 @@
 ![Demo Result](final_kanit.jpg)
 
 ## Proje Özeti
-Bu proje, perakende sektöründe **raf düzeni (Planogram compliance)** ve **stok takibi (On-shelf availability)** problemlerini çözmek için geliştirilmiştir. Vispera gibi şirketlerin görüntü işleme teknolojileri referans alınarak, gerçek market verileri üzerinde **YOLOv8** modeli eğitilmiştir.
+Bu proje, perakende sektöründe **raf düzeni (Planogram compliance)** ve **stok takibi (On-shelf availability)** problemlerini çözmek için geliştirilmiştir. Gerçek market verileri üzerinde **YOLOv8** modeli eğitilmiştir.
 
 ## Teknik Detaylar
 * **Model:** YOLOv8 Nano (Transfer Learning)
