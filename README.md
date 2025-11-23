@@ -13,4 +13,4 @@ Bu proje, perakende sektöründe **raf düzeni (Planogram compliance)** ve **sto
 
 ## Sonuç
 Model, market raflarındaki karmaşık ve bitişik ürünleri başarıyla tespit edebilmektedir.
-![Training Metrics](results.jpg)
+![Training Metrics](results.png)
